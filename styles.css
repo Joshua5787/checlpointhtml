@@ -1,0 +1,21 @@
+
+body {
+  font-family: sans-serif;
+  font-size: larger;
+  margin-left: 0%;
+  padding: 0cqb;
+  background-color: silver;
+}
+header{
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
+section{
+  padding: 20px;
+  background: scroll;
+  margin-bottom: 20px;
+  border-radius: 8px;    
+}
+form{
+  display: flex;}
